@@ -6,11 +6,11 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
+global.owner = [Iyke VISUALS
   ['94767939688', 'Dinuwa Official²⁰²³', true],
   ['94767939688', 'Dinuwa Official²⁰²³', true], 
   [''] 
-] //Number of owners
++2348078800552] //Number of owners
 
 global.mods = ['94767939688','94767939688'] 
 global.prems = ['94767939688', '94767939688', '94767939688']
